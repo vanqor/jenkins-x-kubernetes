@@ -1,5 +1,5 @@
 extends:
-  import: classic
+  import: custom-classic
   file: maven/pipeline.yaml
 pipelines:
   pullRequest:

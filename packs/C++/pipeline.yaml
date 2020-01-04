@@ -1,5 +1,5 @@
 extends:
-  import: classic
+  import: custom-classic
   file: C++/pipeline.yaml
 pipelines:
   pullRequest:

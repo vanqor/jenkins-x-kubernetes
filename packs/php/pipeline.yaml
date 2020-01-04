@@ -1,5 +1,5 @@
 extends:
-  import: classic
+  import: custom-classic
   file: pipeline.yaml
 agent:
   label: jenkins-jx-base
